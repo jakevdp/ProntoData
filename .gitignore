@@ -1,0 +1,13 @@
+*~
+.ipynb_checkpoints
+
+# downloaded data
+open_data_year_one.zip
+2015_station_data.csv
+2015_status_data.csv
+2015_trip_data.csv
+2015_weather_data.csv
+README.txt
+
+# intermediate data
+queried_distances
